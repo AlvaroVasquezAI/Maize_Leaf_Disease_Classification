@@ -1,36 +1,36 @@
 maize_disease_classifier/
 │
 ├── data/
-│   ├── test/               # test dataset
+│   ├── test/            
 │   │   ├── Common_Rust/
 │   │   ├── Gray_Leaf_Spot/
 │   │   └── ...
 │   │
-│   ├── train/             # train dataset
+│   ├── train/        
 │   │   ├── Common_Rust/
 │   │   ├── Gray_Leaf_Spot/
 │   │   └── ...
-│   └── train/             # train dataset
+│   └── train/        
 │       ├── Common_Rust/
 │       ├── Gray_Leaf_Spot/
 │       └── ...
 │
-├── gui/                    # GUI
+├── gui/    
 │   ├── __init__.py
 │   └── app.py
 │
-├── models/                    # Saved models
-│   ├── checkpoints/          # Model checkpoints during training
-│   └── grid_search/          # Grid search
+├── models/   
+│   ├── checkpoints/   
+│   └── grid_search/    
 │
 ├── notebooks/  
 │
-├── src/                      # Source code
+├── src/                    
 │   ├── __init__.py
 │   ├── data/
 │   │   ├── __init__.py
-│   │   ├── dataset.py       # Dataset class
-│   │   └── preprocessing.py  # Data preprocessing functions
+│   │   ├── dataset.py      
+│   │   └── preprocessing.py  
 │   │
 │   ├── grid_search/
 │   │   ├── __init__.py
@@ -39,19 +39,19 @@ maize_disease_classifier/
 │   │
 │   ├── models/
 │   │   ├── __init__.py
-│   │   └── vit_model.py     # Model architecture
+│   │   └── vit_model.py     
 │   │
 │   ├── training/
 │   │   ├── __init__.py
-│   │   └── trainer.py       # Training loops
+│   │   └── trainer.py       
 │   │
 │   └── utils/
 │       ├── __init__.py
-│       └── helpers.py       # General utility functions
+│       └── helpers.py       
 │
-├── configs/                 # Configuration files
-│   └── config.yaml         # Model and training parameters
+├── configs/                
+│   └── config.yaml        
 │
-├── requirements.txt        # Project dependencies
-├── README.md              # Project documentation
-└── main.py               # Main script to run training
+├── requirements.txt       
+├── README.md             
+└── main.py       
