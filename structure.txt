@@ -1,0 +1,57 @@
+maize_disease_classifier/
+│
+├── data/
+│   ├── test/               # test dataset
+│   │   ├── Common_Rust/
+│   │   ├── Gray_Leaf_Spot/
+│   │   └── ...
+│   │
+│   ├── train/             # train dataset
+│   │   ├── Common_Rust/
+│   │   ├── Gray_Leaf_Spot/
+│   │   └── ...
+│   └── train/             # train dataset
+│       ├── Common_Rust/
+│       ├── Gray_Leaf_Spot/
+│       └── ...
+│
+├── gui/                    # GUI
+│   ├── __init__.py
+│   └── app.py
+│
+├── models/                    # Saved models
+│   ├── checkpoints/          # Model checkpoints during training
+│   └── grid_search/          # Grid search
+│
+├── notebooks/  
+│
+├── src/                      # Source code
+│   ├── __init__.py
+│   ├── data/
+│   │   ├── __init__.py
+│   │   ├── dataset.py       # Dataset class
+│   │   └── preprocessing.py  # Data preprocessing functions
+│   │
+│   ├── grid_search/
+│   │   ├── __init__.py
+│   │   ├── grid_search.py      
+│   │   └── run_grid_search.py 
+│   │
+│   ├── models/
+│   │   ├── __init__.py
+│   │   └── vit_model.py     # Model architecture
+│   │
+│   ├── training/
+│   │   ├── __init__.py
+│   │   └── trainer.py       # Training loops
+│   │
+│   └── utils/
+│       ├── __init__.py
+│       └── helpers.py       # General utility functions
+│
+├── configs/                 # Configuration files
+│   └── config.yaml         # Model and training parameters
+│
+├── requirements.txt        # Project dependencies
+├── README.md              # Project documentation
+└── main.py               # Main script to run training

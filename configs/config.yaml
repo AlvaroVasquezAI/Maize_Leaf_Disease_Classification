@@ -1,0 +1,49 @@
+# Model configuration
+model:
+  name: "google/vit-base-patch16-224"
+  num_classes: 6
+  freeze_backbone: true
+
+# Training parameters
+training:
+  batch_size: 16
+  num_epochs: 20
+  learning_rate: 1e-5
+  weight_decay: 0.02
+  scheduler_patience: 4
+  scheduler_factor: 0.5
+  checkpoint_dir: "models/checkpoints" # Added this
+  best_model_path: "models/best_model.pth"
+  early_stopping_patience: 7
+  early_stopping_delta: 0.005
+  weight_decay: 0.01
+  mixup_alpha: 0.2
+  use_mixup: true
+  memory_clear_frequency: 1000
+  debug_memory: false
+
+# Data configuration
+data:
+  image_size: 224
+  train_dir: "data/train"
+  val_dir: "data/validation"
+  test_dir: "data/test"
+  train_csv: "data/train/train.csv" # Added these
+  validation_csv: "data/validation/validation.csv"
+  test_csv: "data/test/test.csv"
+
+# Data loading
+data_loading:
+  num_workers: 4  
+  pin_memory: true
+  use_augmentation: true
+  prefetch_factor: 2
+  persistent_workers: true
+
+# Paths configuration
+paths:
+  model_save_dir: "models/checkpoints"
+  best_model_path: "models/best_model.pth"
+
+# General settings
+seed: 42 # Added this
