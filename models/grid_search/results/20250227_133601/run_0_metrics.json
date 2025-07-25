@@ -1,0 +1,186 @@
+{
+    "parameters": {
+        "learning_rate": 1e-05,
+        "weight_decay": 0.01,
+        "batch_size": 16,
+        "num_epochs": 15,
+        "scheduler_patience": 3,
+        "scheduler_factor": 0.1,
+        "hidden_dropout_prob": 0.1,
+        "attention_probs_dropout_prob": 0.1
+    },
+    "train_metrics": {
+        "Common Rust": {
+            "precision": 1.0,
+            "recall": 0.990546218487395,
+            "f1-score": 0.9952506596306069,
+            "support": 952.0,
+            "accuracy": 99.0546218487395
+        },
+        "Gray Leaf Spot": {
+            "precision": 0.969770253929867,
+            "recall": 0.9271676300578034,
+            "f1-score": 0.9479905437352246,
+            "support": 865.0,
+            "accuracy": 92.71676300578035
+        },
+        "Healthy": {
+            "precision": 1.0,
+            "recall": 0.9946004319654428,
+            "f1-score": 0.9972929074174337,
+            "support": 926.0,
+            "accuracy": 99.46004319654428
+        },
+        "Northern Leaf Blight": {
+            "precision": 0.933252427184466,
+            "recall": 0.9746514575411914,
+            "f1-score": 0.95350278983261,
+            "support": 789.0,
+            "accuracy": 97.46514575411915
+        },
+        "Phaeosphaeria Leaf Spot": {
+            "precision": 0.9778801843317972,
+            "recall": 0.9593128390596745,
+            "f1-score": 0.9685075308078503,
+            "support": 1106.0,
+            "accuracy": 95.93128390596745
+        },
+        "Southern Rust": {
+            "precision": 0.9452380952380952,
+            "recall": 0.9900249376558603,
+            "f1-score": 0.9671132764920828,
+            "support": 802.0,
+            "accuracy": 99.00249376558602
+        },
+        "accuracy": 0.9724264705882353,
+        "macro avg": {
+            "precision": 0.9710234934473708,
+            "recall": 0.9727172524612279,
+            "f1-score": 0.971609617985968,
+            "support": 5440.0
+        },
+        "weighted avg": {
+            "precision": 0.9729418880422424,
+            "recall": 0.9724264705882353,
+            "f1-score": 0.9724433012069693,
+            "support": 5440.0
+        },
+        "loss": 0.10264736596659264
+    },
+    "val_metrics": {
+        "Common Rust": {
+            "precision": 1.0,
+            "recall": 0.9916666666666667,
+            "f1-score": 0.99581589958159,
+            "support": 120.0,
+            "accuracy": 99.16666666666667
+        },
+        "Gray Leaf Spot": {
+            "precision": 0.9035087719298246,
+            "recall": 0.944954128440367,
+            "f1-score": 0.9237668161434978,
+            "support": 109.0,
+            "accuracy": 94.4954128440367
+        },
+        "Healthy": {
+            "precision": 1.0,
+            "recall": 0.875,
+            "f1-score": 0.9333333333333333,
+            "support": 120.0,
+            "accuracy": 87.5
+        },
+        "Northern Leaf Blight": {
+            "precision": 0.9361702127659575,
+            "recall": 0.8979591836734694,
+            "f1-score": 0.9166666666666666,
+            "support": 98.0,
+            "accuracy": 89.79591836734694
+        },
+        "Phaeosphaeria Leaf Spot": {
+            "precision": 0.5953488372093023,
+            "recall": 0.9343065693430657,
+            "f1-score": 0.7272727272727273,
+            "support": 137.0,
+            "accuracy": 93.43065693430657
+        },
+        "Southern Rust": {
+            "precision": 0.6857142857142857,
+            "recall": 0.24489795918367346,
+            "f1-score": 0.3609022556390977,
+            "support": 98.0,
+            "accuracy": 24.489795918367346
+        },
+        "accuracy": 0.8313782991202346,
+        "macro avg": {
+            "precision": 0.8534570179365617,
+            "recall": 0.8147974178845404,
+            "f1-score": 0.809626283106152,
+            "support": 682.0
+        },
+        "weighted avg": {
+            "precision": 0.8489588382537965,
+            "recall": 0.8313782991202346,
+            "f1-score": 0.8167545585509687,
+            "support": 682.0
+        },
+        "loss": 0.7526883745652645
+    },
+    "test_metrics": {
+        "Common Rust": {
+            "precision": 1.0,
+            "recall": 0.9831932773109243,
+            "f1-score": 0.9915254237288136,
+            "support": 119.0,
+            "accuracy": 98.31932773109243
+        },
+        "Gray Leaf Spot": {
+            "precision": 0.9217391304347826,
+            "recall": 0.9724770642201835,
+            "f1-score": 0.9464285714285714,
+            "support": 109.0,
+            "accuracy": 97.24770642201835
+        },
+        "Healthy": {
+            "precision": 1.0,
+            "recall": 0.8706896551724138,
+            "f1-score": 0.9308755760368663,
+            "support": 116.0,
+            "accuracy": 87.06896551724138
+        },
+        "Northern Leaf Blight": {
+            "precision": 0.9473684210526315,
+            "recall": 0.9183673469387755,
+            "f1-score": 0.9326424870466321,
+            "support": 98.0,
+            "accuracy": 91.83673469387756
+        },
+        "Phaeosphaeria Leaf Spot": {
+            "precision": 0.8238993710691824,
+            "recall": 0.9562043795620438,
+            "f1-score": 0.8851351351351351,
+            "support": 137.0,
+            "accuracy": 95.62043795620438
+        },
+        "Southern Rust": {
+            "precision": 0.9333333333333333,
+            "recall": 0.8571428571428571,
+            "f1-score": 0.8936170212765957,
+            "support": 98.0,
+            "accuracy": 85.71428571428571
+        },
+        "accuracy": 0.9290989660265879,
+        "macro avg": {
+            "precision": 0.9377233759816551,
+            "recall": 0.9263457633911996,
+            "f1-score": 0.930037369108769,
+            "support": 677.0
+        },
+        "weighted avg": {
+            "precision": 0.934494166888765,
+            "recall": 0.9290989660265879,
+            "f1-score": 0.929646605404593,
+            "support": 677.0
+        },
+        "loss": 0.353894620765607
+    }
+}
