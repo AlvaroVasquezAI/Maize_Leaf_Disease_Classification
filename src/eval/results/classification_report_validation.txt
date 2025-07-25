@@ -1,0 +1,14 @@
+Classification Report for the Best Model on the Validation Set
+
+                         precision    recall  f1-score   support
+
+            Common Rust     1.0000    1.0000    1.0000       120
+         Gray Leaf Spot     0.9474    0.9908    0.9686       109
+                Healthy     1.0000    0.9583    0.9787       120
+   Northern Leaf Blight     0.9892    0.9388    0.9634        98
+Phaeosphaeria Leaf Spot     0.6303    0.9708    0.7644       137
+          Southern Rust     0.8276    0.2449    0.3780        98
+
+               accuracy                         0.8680       682
+              macro avg     0.8991    0.8506    0.8422       682
+           weighted avg     0.8910    0.8680    0.8493       682
