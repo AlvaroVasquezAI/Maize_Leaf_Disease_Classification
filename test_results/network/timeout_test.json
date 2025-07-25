@@ -1,0 +1,53 @@
+{
+  "timeouts_tested": [
+    0.1,
+    0.5,
+    1.0,
+    5.0,
+    10.0
+  ],
+  "success_count": 5,
+  "critical_timeout": 0.1,
+  "detailed_results": [
+    {
+      "timeout": 0.1,
+      "success": true,
+      "response_time": 0.19708919525146484,
+      "server_time": 0.08951592445373535,
+      "class": "Healthy",
+      "confidence": 0.4583129286766052
+    },
+    {
+      "timeout": 0.5,
+      "success": true,
+      "response_time": 0.5965039730072021,
+      "server_time": 0.08506894111633301,
+      "class": "Healthy",
+      "confidence": 0.4583129286766052
+    },
+    {
+      "timeout": 1.0,
+      "success": true,
+      "response_time": 1.0979692935943604,
+      "server_time": 0.08051395416259766,
+      "class": "Healthy",
+      "confidence": 0.4583129286766052
+    },
+    {
+      "timeout": 5.0,
+      "success": true,
+      "response_time": 2.243291139602661,
+      "server_time": 0.19903230667114258,
+      "class": "Healthy",
+      "confidence": 0.4583129286766052
+    },
+    {
+      "timeout": 10.0,
+      "success": true,
+      "response_time": 2.272171974182129,
+      "server_time": 0.20467352867126465,
+      "class": "Healthy",
+      "confidence": 0.4583129286766052
+    }
+  ]
+}

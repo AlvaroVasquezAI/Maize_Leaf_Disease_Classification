@@ -1,0 +1,154 @@
+{
+  "config": {
+    "test_duration": 120,
+    "actual_duration": 123.52769231796265,
+    "interval": 5
+  },
+  "summary": {
+    "total_requests": 17,
+    "success_count": 17,
+    "success_rate": 100.0,
+    "avg_response_time": 2.257483720779419,
+    "most_common_class": "Healthy",
+    "class_consistency": 100.0,
+    "time_drift": -3.701465833706177
+  },
+  "detailed_results": [
+    {
+      "timestamp": 1749252037.8342953,
+      "success": true,
+      "response_time": 2.1172893047332764,
+      "server_time": 0.0760045051574707,
+      "class": "Healthy",
+      "confidence": 0.4583129286766052
+    },
+    {
+      "timestamp": 1749252045.1394212,
+      "success": true,
+      "response_time": 2.290579319000244,
+      "server_time": 0.2320082187652588,
+      "class": "Healthy",
+      "confidence": 0.4583129286766052
+    },
+    {
+      "timestamp": 1749252052.4577975,
+      "success": true,
+      "response_time": 2.316446304321289,
+      "server_time": 0.26856136322021484,
+      "class": "Healthy",
+      "confidence": 0.4583129286766052
+    },
+    {
+      "timestamp": 1749252059.8456638,
+      "success": true,
+      "response_time": 2.3743462562561035,
+      "server_time": 0.3361856937408447,
+      "class": "Healthy",
+      "confidence": 0.4583129286766052
+    },
+    {
+      "timestamp": 1749252067.2407548,
+      "success": true,
+      "response_time": 2.3820323944091797,
+      "server_time": 0.3452882766723633,
+      "class": "Healthy",
+      "confidence": 0.4583129286766052
+    },
+    {
+      "timestamp": 1749252074.6090968,
+      "success": true,
+      "response_time": 2.3620805740356445,
+      "server_time": 0.32674360275268555,
+      "class": "Healthy",
+      "confidence": 0.4583129286766052
+    },
+    {
+      "timestamp": 1749252081.846707,
+      "success": true,
+      "response_time": 2.232125759124756,
+      "server_time": 0.18703222274780273,
+      "class": "Healthy",
+      "confidence": 0.4583129286766052
+    },
+    {
+      "timestamp": 1749252089.195449,
+      "success": true,
+      "response_time": 2.34594464302063,
+      "server_time": 0.3144040107727051,
+      "class": "Healthy",
+      "confidence": 0.4583129286766052
+    },
+    {
+      "timestamp": 1749252096.4286854,
+      "success": true,
+      "response_time": 2.2166965007781982,
+      "server_time": 0.17345428466796875,
+      "class": "Healthy",
+      "confidence": 0.4583129286766052
+    },
+    {
+      "timestamp": 1749252103.514696,
+      "success": true,
+      "response_time": 2.0761654376983643,
+      "server_time": 0.023000717163085938,
+      "class": "Healthy",
+      "confidence": 0.4583129286766052
+    },
+    {
+      "timestamp": 1749252110.8384614,
+      "success": true,
+      "response_time": 2.320666790008545,
+      "server_time": 0.2955498695373535,
+      "class": "Healthy",
+      "confidence": 0.4583129286766052
+    },
+    {
+      "timestamp": 1749252118.2244806,
+      "success": true,
+      "response_time": 2.370739221572876,
+      "server_time": 0.3071410655975342,
+      "class": "Healthy",
+      "confidence": 0.4583129286766052
+    },
+    {
+      "timestamp": 1749252125.4107773,
+      "success": true,
+      "response_time": 2.173976421356201,
+      "server_time": 0.11752772331237793,
+      "class": "Healthy",
+      "confidence": 0.4583129286766052
+    },
+    {
+      "timestamp": 1749252132.6381912,
+      "success": true,
+      "response_time": 2.2138679027557373,
+      "server_time": 0.18903231620788574,
+      "class": "Healthy",
+      "confidence": 0.4583129286766052
+    },
+    {
+      "timestamp": 1749252139.6950822,
+      "success": true,
+      "response_time": 2.0527749061584473,
+      "server_time": 0.021510839462280273,
+      "class": "Healthy",
+      "confidence": 0.4583129286766052
+    },
+    {
+      "timestamp": 1749252147.0181727,
+      "success": true,
+      "response_time": 2.3149819374084473,
+      "server_time": 0.2630879878997803,
+      "class": "Healthy",
+      "confidence": 0.4583129286766052
+    },
+    {
+      "timestamp": 1749252154.2419243,
+      "success": true,
+      "response_time": 2.2165095806121826,
+      "server_time": 0.17502737045288086,
+      "class": "Healthy",
+      "confidence": 0.4583129286766052
+    }
+  ]
+}

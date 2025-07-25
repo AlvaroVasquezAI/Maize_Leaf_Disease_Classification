@@ -1,0 +1,712 @@
+{
+  "config": {
+    "num_requests": 100,
+    "max_workers": 5
+  },
+  "summary": {
+    "success_count": 95,
+    "error_count": 5,
+    "error_rate": 5.0,
+    "total_time": 43.016074419021606,
+    "rps": 2.3247123627761868,
+    "avg_response_time": 2.145169052324797,
+    "min_response_time": 2.0465288162231445,
+    "max_response_time": 2.2802608013153076,
+    "p50_response": 2.1356308460235596,
+    "p90_response": 2.2224737644195556,
+    "p95_response": 2.2307300090789797,
+    "avg_server_time": 0.10300789632295307
+  },
+  "detailed_results": [
+    {
+      "success": true,
+      "response_time": 2.136631488800049,
+      "server_time": 0.07751941680908203,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.1356308460235596,
+      "server_time": 0.0825200080871582,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.1366283893585205,
+      "server_time": 0.08051824569702148,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.1356289386749268,
+      "server_time": 0.08851957321166992,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": false,
+      "status_code": 500,
+      "error": "{\n  \"error\": \"An error occurred processing the image: cannot identify image file 'C:\\\\\\\\Users\\\\\\\\alvar\\\\\\\\GitHub\\\\\\\\MLDC\\\\\\\\gui\\\\\\\\temp\\\\\\\\temp_image_1749251994_network_test.jpg'\"\n}\n"
+    },
+    {
+      "success": true,
+      "response_time": 2.1029438972473145,
+      "server_time": 0.06000089645385742,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.2256765365600586,
+      "server_time": 0.1725142002105713,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.2224738597869873,
+      "server_time": 0.17551469802856445,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.222473621368408,
+      "server_time": 0.17851638793945312,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.2204697132110596,
+      "server_time": 0.1745152473449707,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.06825852394104,
+      "server_time": 0.021999359130859375,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.125608205795288,
+      "server_time": 0.0675208568572998,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.126608371734619,
+      "server_time": 0.06651496887207031,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.1244027614593506,
+      "server_time": 0.07151603698730469,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.123599052429199,
+      "server_time": 0.0735177993774414,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.058995008468628,
+      "server_time": 0.04051685333251953,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": false,
+      "status_code": 500,
+      "error": "{\n  \"error\": \"An error occurred processing the image: cannot identify image file 'C:\\\\\\\\Users\\\\\\\\alvar\\\\\\\\GitHub\\\\\\\\MLDC\\\\\\\\gui\\\\\\\\temp\\\\\\\\temp_image_1749252000_network_test.jpg'\"\n}\n"
+    },
+    {
+      "success": true,
+      "response_time": 2.219132661819458,
+      "server_time": 0.18411517143249512,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.1350579261779785,
+      "server_time": 0.10603857040405273,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": false,
+      "status_code": 500,
+      "error": "{\n  \"error\": \"An error occurred processing the image: cannot identify image file 'C:\\\\\\\\Users\\\\\\\\alvar\\\\\\\\GitHub\\\\\\\\MLDC\\\\\\\\gui\\\\\\\\temp\\\\\\\\temp_image_1749252000_network_test.jpg'\"\n}\n"
+    },
+    {
+      "success": true,
+      "response_time": 2.089456796646118,
+      "server_time": 0.02500438690185547,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.083472728729248,
+      "server_time": 0.04633736610412598,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.0834755897521973,
+      "server_time": 0.04533791542053223,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.0659475326538086,
+      "server_time": 0.03551530838012695,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.057875394821167,
+      "server_time": 0.03499960899353027,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.233391284942627,
+      "server_time": 0.187028169631958,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.081037998199463,
+      "server_time": 0.038091182708740234,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.080038547515869,
+      "server_time": 0.03609061241149902,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.0465288162231445,
+      "server_time": 0.021001100540161133,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.050279378890991,
+      "server_time": 0.02300119400024414,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.141244649887085,
+      "server_time": 0.09051799774169922,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.210157871246338,
+      "server_time": 0.15400075912475586,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.210157871246338,
+      "server_time": 0.15700054168701172,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.2802608013153076,
+      "server_time": 0.22862553596496582,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.2015085220336914,
+      "server_time": 0.1666266918182373,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.1705069541931152,
+      "server_time": 0.1155087947845459,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": false,
+      "status_code": 500,
+      "error": "{\n  \"error\": \"An error occurred processing the image: cannot identify image file 'C:\\\\\\\\Users\\\\\\\\alvar\\\\\\\\GitHub\\\\\\\\MLDC\\\\\\\\gui\\\\\\\\temp\\\\\\\\temp_image_1749252009_network_test.jpg'\"\n}\n"
+    },
+    {
+      "success": true,
+      "response_time": 2.1250669956207275,
+      "server_time": 0.07251930236816406,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.106405258178711,
+      "server_time": 0.06151008605957031,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.106405258178711,
+      "server_time": 0.05951380729675293,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.069096803665161,
+      "server_time": 0.032517194747924805,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.101048231124878,
+      "server_time": 0.05800175666809082,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.0900485515594482,
+      "server_time": 0.05951356887817383,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.1272952556610107,
+      "server_time": 0.08278703689575195,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.1272952556610107,
+      "server_time": 0.08148837089538574,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.2235920429229736,
+      "server_time": 0.19672560691833496,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.1995973587036133,
+      "server_time": 0.16971755027770996,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.139082670211792,
+      "server_time": 0.1062016487121582,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.079728841781616,
+      "server_time": 0.04226994514465332,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.0797338485717773,
+      "server_time": 0.04027199745178223,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.0917530059814453,
+      "server_time": 0.05652165412902832,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.154268980026245,
+      "server_time": 0.11852407455444336,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.153268814086914,
+      "server_time": 0.1165170669555664,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.1379287242889404,
+      "server_time": 0.08651304244995117,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.1389272212982178,
+      "server_time": 0.08451437950134277,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.1885666847229004,
+      "server_time": 0.1489882469177246,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.2185652256011963,
+      "server_time": 0.17104291915893555,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.2195663452148438,
+      "server_time": 0.17304301261901855,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.195565700531006,
+      "server_time": 0.14352035522460938,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.195565700531006,
+      "server_time": 0.14551520347595215,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.1032371520996094,
+      "server_time": 0.06251668930053711,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.157297134399414,
+      "server_time": 0.1180717945098877,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.157297134399414,
+      "server_time": 0.12008309364318848,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.195808172225952,
+      "server_time": 0.1625227928161621,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.195808172225952,
+      "server_time": 0.16051959991455078,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.1796488761901855,
+      "server_time": 0.14751720428466797,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.0907142162323,
+      "server_time": 0.03900504112243652,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.0907142162323,
+      "server_time": 0.041005611419677734,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.097775459289551,
+      "server_time": 0.04200458526611328,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.097775459289551,
+      "server_time": 0.04000234603881836,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.0873379707336426,
+      "server_time": 0.0540003776550293,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.1330270767211914,
+      "server_time": 0.09951019287109375,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.1330270767211914,
+      "server_time": 0.10151219367980957,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.1184563636779785,
+      "server_time": 0.09050631523132324,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.117457151412964,
+      "server_time": 0.08750605583190918,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.1183342933654785,
+      "server_time": 0.07300257682800293,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.1932430267333984,
+      "server_time": 0.14961624145507812,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.1932430267333984,
+      "server_time": 0.14661693572998047,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.1722447872161865,
+      "server_time": 0.13051605224609375,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.171245574951172,
+      "server_time": 0.1315140724182129,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.1293718814849854,
+      "server_time": 0.08645915985107422,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.201137065887451,
+      "server_time": 0.15842413902282715,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.201137065887451,
+      "server_time": 0.15642452239990234,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.2752342224121094,
+      "server_time": 0.24251914024353027,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.2752342224121094,
+      "server_time": 0.24551844596862793,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.122342348098755,
+      "server_time": 0.07251954078674316,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.1745386123657227,
+      "server_time": 0.1485140323638916,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.1734516620635986,
+      "server_time": 0.15051627159118652,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.0896806716918945,
+      "server_time": 0.05322766304016113,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": false,
+      "status_code": 500,
+      "error": "{\n  \"error\": \"An error occurred processing the image: cannot identify image file 'C:\\\\\\\\Users\\\\\\\\alvar\\\\\\\\GitHub\\\\\\\\MLDC\\\\\\\\gui\\\\\\\\temp\\\\\\\\temp_image_1749252030_network_test.jpg'\"\n}\n"
+    },
+    {
+      "success": true,
+      "response_time": 2.066988229751587,
+      "server_time": 0.023196697235107422,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.0810532569885254,
+      "server_time": 0.04951333999633789,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.1465659141540527,
+      "server_time": 0.10051965713500977,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.1465659141540527,
+      "server_time": 0.10251927375793457,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.1563403606414795,
+      "server_time": 0.11351799964904785,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.068941831588745,
+      "server_time": 0.02199578285217285,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.105569362640381,
+      "server_time": 0.07051372528076172,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.2295894622802734,
+      "server_time": 0.18367862701416016,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.228590488433838,
+      "server_time": 0.1826326847076416,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    },
+    {
+      "success": true,
+      "response_time": 2.2411017417907715,
+      "server_time": 0.19168639183044434,
+      "confidence": 0.4583129286766052,
+      "class": "Healthy"
+    }
+  ]
+}

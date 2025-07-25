@@ -1,0 +1,21 @@
+[
+  {
+    "scenario": "Archivo no v\u00e1lido",
+    "status_code": 500,
+    "response_time": 2.051694869995117,
+    "expected_status": 500,
+    "response_text": "{\n  \"error\": \"Error processing image: cannot identify image file 'C:\\\\\\\\Users\\\\\\\\alvar\\\\\\\\GitHub\\\\\\\\MLDC\\\\\\\\gui\\\\\\\\temp\\\\\\\\temp_image.jpg'\"\n}\n"
+  },
+  {
+    "scenario": "Sin archivo",
+    "status_code": 400,
+    "response_time": 2.0335850715637207,
+    "expected_status": 400,
+    "response_text": "{\n  \"error\": \"No image provided\"\n}\n"
+  },
+  {
+    "scenario": "Timeout corto",
+    "error": "Timeout",
+    "expected_error": "timeout"
+  }
+]

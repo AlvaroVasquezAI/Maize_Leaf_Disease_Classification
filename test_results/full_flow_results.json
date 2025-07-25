@@ -1,0 +1,1682 @@
+[
+  {
+    "image": "0_1.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.0010018348693847656,
+    "upload_time": 2.1505346298217773,
+    "server_time": 0.12351512908935547,
+    "total_time": 2.2750515937805176,
+    "class": "Common Rust",
+    "confidence": 0.9935511350631714
+  },
+  {
+    "image": "0_10.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.0010073184967041016,
+    "upload_time": 2.171900987625122,
+    "server_time": 0.12349820137023926,
+    "total_time": 2.2964065074920654,
+    "class": "Common Rust",
+    "confidence": 0.9965781569480896
+  },
+  {
+    "image": "0_100.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.0009891986846923828,
+    "upload_time": 2.1654772758483887,
+    "server_time": 0.12412858009338379,
+    "total_time": 2.290595054626465,
+    "class": "Common Rust",
+    "confidence": 0.9945926070213318
+  },
+  {
+    "image": "0_101.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.0010178089141845703,
+    "upload_time": 2.177309274673462,
+    "server_time": 0.12089681625366211,
+    "total_time": 2.2992238998413086,
+    "class": "Common Rust",
+    "confidence": 0.9958136677742004
+  },
+  {
+    "image": "0_102.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.0009884834289550781,
+    "upload_time": 2.1796722412109375,
+    "server_time": 0.12201666831970215,
+    "total_time": 2.3026773929595947,
+    "class": "Common Rust",
+    "confidence": 0.9951990246772766
+  },
+  {
+    "image": "0_103.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.0009999275207519531,
+    "upload_time": 2.1647868156433105,
+    "server_time": 0.1204991340637207,
+    "total_time": 2.286285877227783,
+    "class": "Common Rust",
+    "confidence": 0.9954702854156494
+  },
+  {
+    "image": "0_104.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.001001119613647461,
+    "upload_time": 2.163330554962158,
+    "server_time": 0.12250328063964844,
+    "total_time": 2.286834955215454,
+    "class": "Common Rust",
+    "confidence": 0.9958066940307617
+  },
+  {
+    "image": "0_105.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.0009963512420654297,
+    "upload_time": 2.1795170307159424,
+    "server_time": 0.12250041961669922,
+    "total_time": 2.303013801574707,
+    "class": "Common Rust",
+    "confidence": 0.9877772927284241
+  },
+  {
+    "image": "0_106.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.0009882450103759766,
+    "upload_time": 2.1528170108795166,
+    "server_time": 0.12252426147460938,
+    "total_time": 2.276329517364502,
+    "class": "Common Rust",
+    "confidence": 0.9885004758834839
+  },
+  {
+    "image": "0_107.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.0,
+    "upload_time": 2.1696200370788574,
+    "server_time": 0.1224372386932373,
+    "total_time": 2.2920572757720947,
+    "class": "Common Rust",
+    "confidence": 0.9922163486480713
+  },
+  {
+    "image": "0_108.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.0010232925415039062,
+    "upload_time": 2.218698740005493,
+    "server_time": 0.17151331901550293,
+    "total_time": 2.3912353515625,
+    "class": "Common Rust",
+    "confidence": 0.9968559741973877
+  },
+  {
+    "image": "0_109.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.0010020732879638672,
+    "upload_time": 2.1664609909057617,
+    "server_time": 0.12151813507080078,
+    "total_time": 2.2889811992645264,
+    "class": "Common Rust",
+    "confidence": 0.9981241822242737
+  },
+  {
+    "image": "0_11.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.0009846687316894531,
+    "upload_time": 2.1840412616729736,
+    "server_time": 0.12450098991394043,
+    "total_time": 2.3095269203186035,
+    "class": "Common Rust",
+    "confidence": 0.9923816323280334
+  },
+  {
+    "image": "0_110.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.0009970664978027344,
+    "upload_time": 2.1688926219940186,
+    "server_time": 0.12250518798828125,
+    "total_time": 2.2923948764801025,
+    "class": "Common Rust",
+    "confidence": 0.995681881904602
+  },
+  {
+    "image": "0_111.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.0009984970092773438,
+    "upload_time": 2.1657044887542725,
+    "server_time": 0.12296080589294434,
+    "total_time": 2.289663791656494,
+    "class": "Common Rust",
+    "confidence": 0.9968926906585693
+  },
+  {
+    "image": "0_112.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.0010001659393310547,
+    "upload_time": 2.1527042388916016,
+    "server_time": 0.12051630020141602,
+    "total_time": 2.2742207050323486,
+    "class": "Common Rust",
+    "confidence": 0.9959582686424255
+  },
+  {
+    "image": "0_113.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.0009937286376953125,
+    "upload_time": 2.1712148189544678,
+    "server_time": 0.12249898910522461,
+    "total_time": 2.2947075366973877,
+    "class": "Common Rust",
+    "confidence": 0.9955433011054993
+  },
+  {
+    "image": "0_114.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.0009980201721191406,
+    "upload_time": 2.1501941680908203,
+    "server_time": 0.11951518058776855,
+    "total_time": 2.270707368850708,
+    "class": "Common Rust",
+    "confidence": 0.9929996728897095
+  },
+  {
+    "image": "0_115.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.001001119613647461,
+    "upload_time": 2.1760244369506836,
+    "server_time": 0.12285947799682617,
+    "total_time": 2.2998850345611572,
+    "class": "Common Rust",
+    "confidence": 0.9968416690826416
+  },
+  {
+    "image": "0_116.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.0009951591491699219,
+    "upload_time": 2.172536849975586,
+    "server_time": 0.1275959014892578,
+    "total_time": 2.3011279106140137,
+    "class": "Common Rust",
+    "confidence": 0.9956939220428467
+  },
+  {
+    "image": "1_1.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.0010008811950683594,
+    "upload_time": 2.1824393272399902,
+    "server_time": 0.12951970100402832,
+    "total_time": 2.312959909439087,
+    "class": "Gray Leaf Spot",
+    "confidence": 0.9849628210067749
+  },
+  {
+    "image": "1_10.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.0009982585906982422,
+    "upload_time": 2.1768786907196045,
+    "server_time": 0.12158012390136719,
+    "total_time": 2.29945707321167,
+    "class": "Gray Leaf Spot",
+    "confidence": 0.9324018955230713
+  },
+  {
+    "image": "1_100.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.002008199691772461,
+    "upload_time": 2.17769193649292,
+    "server_time": 0.1205132007598877,
+    "total_time": 2.30021333694458,
+    "class": "Gray Leaf Spot",
+    "confidence": 0.9230562448501587
+  },
+  {
+    "image": "1_101.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.0009958744049072266,
+    "upload_time": 2.2467617988586426,
+    "server_time": 0.19635367393493652,
+    "total_time": 2.4441113471984863,
+    "class": "Gray Leaf Spot",
+    "confidence": 0.97906094789505
+  },
+  {
+    "image": "1_102.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.0009894371032714844,
+    "upload_time": 2.1416003704071045,
+    "server_time": 0.1005089282989502,
+    "total_time": 2.243098735809326,
+    "class": "Gray Leaf Spot",
+    "confidence": 0.9659449458122253
+  },
+  {
+    "image": "1_103.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.0009999275207519531,
+    "upload_time": 2.2298519611358643,
+    "server_time": 0.1888265609741211,
+    "total_time": 2.4196784496307373,
+    "class": "Gray Leaf Spot",
+    "confidence": 0.9807413220405579
+  },
+  {
+    "image": "1_104.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.0010166168212890625,
+    "upload_time": 2.16430401802063,
+    "server_time": 0.1065068244934082,
+    "total_time": 2.271827459335327,
+    "class": "Gray Leaf Spot",
+    "confidence": 0.7002344727516174
+  },
+  {
+    "image": "1_105.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.0010008811950683594,
+    "upload_time": 2.2479891777038574,
+    "server_time": 0.1860218048095703,
+    "total_time": 2.435011863708496,
+    "class": "Gray Leaf Spot",
+    "confidence": 0.9728023409843445
+  },
+  {
+    "image": "1_106.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.0009984970092773438,
+    "upload_time": 2.257657289505005,
+    "server_time": 0.20003604888916016,
+    "total_time": 2.4586918354034424,
+    "class": "Gray Leaf Spot",
+    "confidence": 0.9664062261581421
+  },
+  {
+    "image": "1_107.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.0009996891021728516,
+    "upload_time": 2.1718790531158447,
+    "server_time": 0.12251591682434082,
+    "total_time": 2.2953946590423584,
+    "class": "Gray Leaf Spot",
+    "confidence": 0.9269787669181824
+  },
+  {
+    "image": "1_108.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.0009982585906982422,
+    "upload_time": 2.221266746520996,
+    "server_time": 0.1815190315246582,
+    "total_time": 2.4037840366363525,
+    "class": "Gray Leaf Spot",
+    "confidence": 0.9724234342575073
+  },
+  {
+    "image": "1_109.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.0009989738464355469,
+    "upload_time": 2.2395598888397217,
+    "server_time": 0.1850266456604004,
+    "total_time": 2.4255855083465576,
+    "class": "Gray Leaf Spot",
+    "confidence": 0.9828648567199707
+  },
+  {
+    "image": "1_11.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.0009999275207519531,
+    "upload_time": 2.2206287384033203,
+    "server_time": 0.1780252456665039,
+    "total_time": 2.399653911590576,
+    "class": "Gray Leaf Spot",
+    "confidence": 0.9881419539451599
+  },
+  {
+    "image": "1_12.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0010061264038085938,
+    "preprocessing_time": 0.0009987354278564453,
+    "upload_time": 2.1731793880462646,
+    "server_time": 0.12151575088500977,
+    "total_time": 2.2967000007629395,
+    "class": "Gray Leaf Spot",
+    "confidence": 0.7235910892486572
+  },
+  {
+    "image": "1_13.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.0009868144989013672,
+    "upload_time": 2.1543447971343994,
+    "server_time": 0.1235201358795166,
+    "total_time": 2.2788517475128174,
+    "class": "Gray Leaf Spot",
+    "confidence": 0.9811912178993225
+  },
+  {
+    "image": "1_14.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.0009987354278564453,
+    "upload_time": 2.178861618041992,
+    "server_time": 0.11869239807128906,
+    "total_time": 2.2985527515411377,
+    "class": "Gray Leaf Spot",
+    "confidence": 0.9819638729095459
+  },
+  {
+    "image": "1_15.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.0009949207305908203,
+    "upload_time": 2.1751232147216797,
+    "server_time": 0.12252473831176758,
+    "total_time": 2.298642873764038,
+    "class": "Gray Leaf Spot",
+    "confidence": 0.9821072220802307
+  },
+  {
+    "image": "1_16.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.0009953975677490234,
+    "upload_time": 2.175568103790283,
+    "server_time": 0.12169671058654785,
+    "total_time": 2.29826021194458,
+    "class": "Gray Leaf Spot",
+    "confidence": 0.7958670854568481
+  },
+  {
+    "image": "1_17.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.0009982585906982422,
+    "upload_time": 2.1669178009033203,
+    "server_time": 0.12216901779174805,
+    "total_time": 2.2900850772857666,
+    "class": "Gray Leaf Spot",
+    "confidence": 0.9876574277877808
+  },
+  {
+    "image": "1_18.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.0009877681732177734,
+    "upload_time": 2.1795480251312256,
+    "server_time": 0.12250423431396484,
+    "total_time": 2.303040027618408,
+    "class": "Gray Leaf Spot",
+    "confidence": 0.7916487455368042
+  },
+  {
+    "image": "2_1.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.0009989738464355469,
+    "upload_time": 2.168273448944092,
+    "server_time": 0.12296438217163086,
+    "total_time": 2.292236804962158,
+    "class": "Healthy",
+    "confidence": 0.9787299036979675
+  },
+  {
+    "image": "2_10.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.0010046958923339844,
+    "upload_time": 2.156904935836792,
+    "server_time": 0.11918950080871582,
+    "total_time": 2.277099132537842,
+    "class": "Healthy",
+    "confidence": 0.9897741079330444
+  },
+  {
+    "image": "2_100.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.0010025501251220703,
+    "upload_time": 2.1733860969543457,
+    "server_time": 0.1275177001953125,
+    "total_time": 2.3019063472747803,
+    "class": "Healthy",
+    "confidence": 0.8560970425605774
+  },
+  {
+    "image": "2_101.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.0009970664978027344,
+    "upload_time": 2.174973726272583,
+    "server_time": 0.12883567810058594,
+    "total_time": 2.3048064708709717,
+    "class": "Healthy",
+    "confidence": 0.9826334118843079
+  },
+  {
+    "image": "2_102.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.0009877681732177734,
+    "upload_time": 2.1604068279266357,
+    "server_time": 0.12353181838989258,
+    "total_time": 2.284926414489746,
+    "class": "Healthy",
+    "confidence": 0.9688878655433655
+  },
+  {
+    "image": "2_103.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.0010004043579101562,
+    "upload_time": 2.2384119033813477,
+    "server_time": 0.18372631072998047,
+    "total_time": 2.4231386184692383,
+    "class": "Healthy",
+    "confidence": 0.9729613661766052
+  },
+  {
+    "image": "2_104.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.0009951591491699219,
+    "upload_time": 2.2404837608337402,
+    "server_time": 0.1830286979675293,
+    "total_time": 2.4245076179504395,
+    "class": "Healthy",
+    "confidence": 0.9068163633346558
+  },
+  {
+    "image": "2_105.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.0010001659393310547,
+    "upload_time": 2.2466869354248047,
+    "server_time": 0.1939408779144287,
+    "total_time": 2.4416279792785645,
+    "class": "Healthy",
+    "confidence": 0.9531806111335754
+  },
+  {
+    "image": "2_106.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.0009908676147460938,
+    "upload_time": 2.1711487770080566,
+    "server_time": 0.1127023696899414,
+    "total_time": 2.284842014312744,
+    "class": "Healthy",
+    "confidence": 0.6316738724708557
+  },
+  {
+    "image": "2_107.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.0,
+    "upload_time": 2.235323429107666,
+    "server_time": 0.1856222152709961,
+    "total_time": 2.420945644378662,
+    "class": "Healthy",
+    "confidence": 0.9836316108703613
+  },
+  {
+    "image": "2_108.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.0010006427764892578,
+    "upload_time": 2.1217281818389893,
+    "server_time": 0.09550261497497559,
+    "total_time": 2.218231439590454,
+    "class": "Healthy",
+    "confidence": 0.9649024605751038
+  },
+  {
+    "image": "2_109.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0009996891021728516,
+    "preprocessing_time": 0.0,
+    "upload_time": 2.2403476238250732,
+    "server_time": 0.1860218048095703,
+    "total_time": 2.4273691177368164,
+    "class": "Healthy",
+    "confidence": 0.882260799407959
+  },
+  {
+    "image": "2_11.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.0009980201721191406,
+    "upload_time": 2.152959108352661,
+    "server_time": 0.11759114265441895,
+    "total_time": 2.271548271179199,
+    "class": "Healthy",
+    "confidence": 0.9795255661010742
+  },
+  {
+    "image": "2_110.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.0010037422180175781,
+    "upload_time": 2.22041916847229,
+    "server_time": 0.1900157928466797,
+    "total_time": 2.4114387035369873,
+    "class": "Phaeosphaeria Leaf Spot",
+    "confidence": 0.7959734797477722
+  },
+  {
+    "image": "2_111.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.0009987354278564453,
+    "upload_time": 2.167855739593506,
+    "server_time": 0.11968016624450684,
+    "total_time": 2.288534641265869,
+    "class": "Phaeosphaeria Leaf Spot",
+    "confidence": 0.5308524370193481
+  },
+  {
+    "image": "2_112.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.00099945068359375,
+    "upload_time": 2.237861394882202,
+    "server_time": 0.18201494216918945,
+    "total_time": 2.4208757877349854,
+    "class": "Healthy",
+    "confidence": 0.9883431792259216
+  },
+  {
+    "image": "2_113.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.0010104179382324219,
+    "upload_time": 2.2209625244140625,
+    "server_time": 0.18802952766418457,
+    "total_time": 2.4100024700164795,
+    "class": "Healthy",
+    "confidence": 0.9935891628265381
+  },
+  {
+    "image": "2_114.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.0010001659393310547,
+    "upload_time": 2.144118070602417,
+    "server_time": 0.1004190444946289,
+    "total_time": 2.245537281036377,
+    "class": "Healthy",
+    "confidence": 0.939628541469574
+  },
+  {
+    "image": "2_115.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.0009856224060058594,
+    "upload_time": 2.227752685546875,
+    "server_time": 0.1850125789642334,
+    "total_time": 2.4137508869171143,
+    "class": "Healthy",
+    "confidence": 0.8096104860305786
+  },
+  {
+    "image": "2_116.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.0010001659393310547,
+    "upload_time": 2.1568329334259033,
+    "server_time": 0.09996628761291504,
+    "total_time": 2.2577993869781494,
+    "class": "Healthy",
+    "confidence": 0.9422232508659363
+  },
+  {
+    "image": "3_1.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.0009839534759521484,
+    "upload_time": 2.2418391704559326,
+    "server_time": 0.18680644035339355,
+    "total_time": 2.4296295642852783,
+    "class": "Northern Leaf Blight",
+    "confidence": 0.9916826486587524
+  },
+  {
+    "image": "3_10.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.0009889602661132812,
+    "upload_time": 2.145429849624634,
+    "server_time": 0.10051655769348145,
+    "total_time": 2.2469353675842285,
+    "class": "Northern Leaf Blight",
+    "confidence": 0.9873566627502441
+  },
+  {
+    "image": "3_11.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.0009984970092773438,
+    "upload_time": 2.235354423522949,
+    "server_time": 0.1837301254272461,
+    "total_time": 2.4200830459594727,
+    "class": "Northern Leaf Blight",
+    "confidence": 0.9201928973197937
+  },
+  {
+    "image": "3_12.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.0009944438934326172,
+    "upload_time": 2.1476006507873535,
+    "server_time": 0.10351324081420898,
+    "total_time": 2.252108335494995,
+    "class": "Northern Leaf Blight",
+    "confidence": 0.9712924361228943
+  },
+  {
+    "image": "3_13.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.0010037422180175781,
+    "upload_time": 2.2292721271514893,
+    "server_time": 0.17802834510803223,
+    "total_time": 2.408304214477539,
+    "class": "Northern Leaf Blight",
+    "confidence": 0.9873117208480835
+  },
+  {
+    "image": "3_14.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.0009982585906982422,
+    "upload_time": 2.134963035583496,
+    "server_time": 0.10051584243774414,
+    "total_time": 2.2364771366119385,
+    "class": "Northern Leaf Blight",
+    "confidence": 0.8702579736709595
+  },
+  {
+    "image": "3_15.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.0009772777557373047,
+    "upload_time": 2.2613022327423096,
+    "server_time": 0.20203781127929688,
+    "total_time": 2.4643173217773438,
+    "class": "Northern Leaf Blight",
+    "confidence": 0.9826167225837708
+  },
+  {
+    "image": "3_16.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.000997781753540039,
+    "upload_time": 2.161689281463623,
+    "server_time": 0.10544967651367188,
+    "total_time": 2.268136739730835,
+    "class": "Gray Leaf Spot",
+    "confidence": 0.6857420206069946
+  },
+  {
+    "image": "3_17.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.0009996891021728516,
+    "upload_time": 2.240055799484253,
+    "server_time": 0.182023286819458,
+    "total_time": 2.423078775405884,
+    "class": "Northern Leaf Blight",
+    "confidence": 0.9561681151390076
+  },
+  {
+    "image": "3_18.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.0009965896606445312,
+    "upload_time": 2.237143039703369,
+    "server_time": 0.18758773803710938,
+    "total_time": 2.425727367401123,
+    "class": "Northern Leaf Blight",
+    "confidence": 0.958294689655304
+  },
+  {
+    "image": "3_19.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.0012557506561279297,
+    "upload_time": 2.2432162761688232,
+    "server_time": 0.18703079223632812,
+    "total_time": 2.4315028190612793,
+    "class": "Northern Leaf Blight",
+    "confidence": 0.5804515480995178
+  },
+  {
+    "image": "3_2.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.0009961128234863281,
+    "upload_time": 2.229310989379883,
+    "server_time": 0.1834871768951416,
+    "total_time": 2.4137942790985107,
+    "class": "Northern Leaf Blight",
+    "confidence": 0.9762787818908691
+  },
+  {
+    "image": "3_20.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.0009980201721191406,
+    "upload_time": 2.2277116775512695,
+    "server_time": 0.185028076171875,
+    "total_time": 2.4137377738952637,
+    "class": "Northern Leaf Blight",
+    "confidence": 0.862834632396698
+  },
+  {
+    "image": "3_21.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.0009982585906982422,
+    "upload_time": 2.23349666595459,
+    "server_time": 0.1843702793121338,
+    "total_time": 2.418865203857422,
+    "class": "Northern Leaf Blight",
+    "confidence": 0.9679577350616455
+  },
+  {
+    "image": "3_22.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.000990152359008789,
+    "upload_time": 2.1547136306762695,
+    "server_time": 0.1003730297088623,
+    "total_time": 2.2560768127441406,
+    "class": "Northern Leaf Blight",
+    "confidence": 0.9839295148849487
+  },
+  {
+    "image": "3_23.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.0009999275207519531,
+    "upload_time": 2.2445523738861084,
+    "server_time": 0.19629502296447754,
+    "total_time": 2.441847324371338,
+    "class": "Northern Leaf Blight",
+    "confidence": 0.9890967011451721
+  },
+  {
+    "image": "3_24.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.0009975433349609375,
+    "upload_time": 2.163908004760742,
+    "server_time": 0.10052180290222168,
+    "total_time": 2.265427350997925,
+    "class": "Northern Leaf Blight",
+    "confidence": 0.9575908780097961
+  },
+  {
+    "image": "3_25.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.0009965896606445312,
+    "upload_time": 2.1601998805999756,
+    "server_time": 0.12412023544311523,
+    "total_time": 2.2853167057037354,
+    "class": "Northern Leaf Blight",
+    "confidence": 0.9039825201034546
+  },
+  {
+    "image": "3_26.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.0009949207305908203,
+    "upload_time": 2.230076551437378,
+    "server_time": 0.1860179901123047,
+    "total_time": 2.4170894622802734,
+    "class": "Northern Leaf Blight",
+    "confidence": 0.9856414198875427
+  },
+  {
+    "image": "3_27.jpg",
+    "size": [
+      256,
+      256
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.0009970664978027344,
+    "upload_time": 2.233773708343506,
+    "server_time": 0.18152642250061035,
+    "total_time": 2.416297197341919,
+    "class": "Northern Leaf Blight",
+    "confidence": 0.9881827235221863
+  },
+  {
+    "image": "4_1.jpg",
+    "size": [
+      4928,
+      3264
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.08400082588195801,
+    "upload_time": 2.2198054790496826,
+    "server_time": 0.19303584098815918,
+    "total_time": 2.4968421459198,
+    "class": "Phaeosphaeria Leaf Spot",
+    "confidence": 0.9878352284431458
+  },
+  {
+    "image": "4_10.jpg",
+    "size": [
+      4752,
+      3168
+    ],
+    "capture_time": 0.0010001659393310547,
+    "preprocessing_time": 0.12052631378173828,
+    "upload_time": 2.265432596206665,
+    "server_time": 0.2080235481262207,
+    "total_time": 2.594982624053955,
+    "class": "Phaeosphaeria Leaf Spot",
+    "confidence": 0.9916836023330688
+  },
+  {
+    "image": "4_100.jpg",
+    "size": [
+      3840,
+      5120
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.13651347160339355,
+    "upload_time": 2.2491087913513184,
+    "server_time": 0.20421075820922852,
+    "total_time": 2.5898330211639404,
+    "class": "Phaeosphaeria Leaf Spot",
+    "confidence": 0.9898686408996582
+  },
+  {
+    "image": "4_101.jpg",
+    "size": [
+      3456,
+      4608
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.08453822135925293,
+    "upload_time": 2.2604620456695557,
+    "server_time": 0.2060244083404541,
+    "total_time": 2.5510246753692627,
+    "class": "Phaeosphaeria Leaf Spot",
+    "confidence": 0.920188307762146
+  },
+  {
+    "image": "4_102.jpg",
+    "size": [
+      3840,
+      5120
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.13049912452697754,
+    "upload_time": 2.2485368251800537,
+    "server_time": 0.1998279094696045,
+    "total_time": 2.5788638591766357,
+    "class": "Phaeosphaeria Leaf Spot",
+    "confidence": 0.9476200938224792
+  },
+  {
+    "image": "4_103.jpg",
+    "size": [
+      4608,
+      3456
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.08651566505432129,
+    "upload_time": 2.181386709213257,
+    "server_time": 0.11824226379394531,
+    "total_time": 2.3861446380615234,
+    "class": "Phaeosphaeria Leaf Spot",
+    "confidence": 0.9813793897628784
+  },
+  {
+    "image": "4_104.jpg",
+    "size": [
+      3840,
+      5120
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.10550332069396973,
+    "upload_time": 2.2414605617523193,
+    "server_time": 0.19301605224609375,
+    "total_time": 2.539979934692383,
+    "class": "Phaeosphaeria Leaf Spot",
+    "confidence": 0.993650496006012
+  },
+  {
+    "image": "4_105.jpg",
+    "size": [
+      4608,
+      3456
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.11550760269165039,
+    "upload_time": 2.252563714981079,
+    "server_time": 0.20075178146362305,
+    "total_time": 2.5688230991363525,
+    "class": "Phaeosphaeria Leaf Spot",
+    "confidence": 0.9852493405342102
+  },
+  {
+    "image": "4_106.jpg",
+    "size": [
+      3456,
+      4608
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.08551526069641113,
+    "upload_time": 2.2449469566345215,
+    "server_time": 0.1976008415222168,
+    "total_time": 2.5280630588531494,
+    "class": "Phaeosphaeria Leaf Spot",
+    "confidence": 0.99696284532547
+  },
+  {
+    "image": "4_107.jpg",
+    "size": [
+      3840,
+      5120
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.10651135444641113,
+    "upload_time": 2.1749608516693115,
+    "server_time": 0.11651802062988281,
+    "total_time": 2.3979902267456055,
+    "class": "Phaeosphaeria Leaf Spot",
+    "confidence": 0.9869487285614014
+  },
+  {
+    "image": "4_108.jpg",
+    "size": [
+      3456,
+      4608
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.08651351928710938,
+    "upload_time": 2.248469114303589,
+    "server_time": 0.19901442527770996,
+    "total_time": 2.533997058868408,
+    "class": "Phaeosphaeria Leaf Spot",
+    "confidence": 0.9901154041290283
+  },
+  {
+    "image": "4_109.jpg",
+    "size": [
+      3456,
+      4608
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.11503744125366211,
+    "upload_time": 2.175560235977173,
+    "server_time": 0.1345062255859375,
+    "total_time": 2.4251039028167725,
+    "class": "Phaeosphaeria Leaf Spot",
+    "confidence": 0.9817008376121521
+  },
+  {
+    "image": "4_11.jpg",
+    "size": [
+      4752,
+      3168
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.07299590110778809,
+    "upload_time": 2.2259740829467773,
+    "server_time": 0.19920873641967773,
+    "total_time": 2.498178720474243,
+    "class": "Phaeosphaeria Leaf Spot",
+    "confidence": 0.986156702041626
+  },
+  {
+    "image": "4_110.jpg",
+    "size": [
+      3456,
+      4608
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.10852313041687012,
+    "upload_time": 2.2555153369903564,
+    "server_time": 0.19975733757019043,
+    "total_time": 2.563795804977417,
+    "class": "Phaeosphaeria Leaf Spot",
+    "confidence": 0.9893611073493958
+  },
+  {
+    "image": "4_111.jpg",
+    "size": [
+      3840,
+      5120
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.09950947761535645,
+    "upload_time": 2.222339391708374,
+    "server_time": 0.20101594924926758,
+    "total_time": 2.522864818572998,
+    "class": "Phaeosphaeria Leaf Spot",
+    "confidence": 0.9707562923431396
+  },
+  {
+    "image": "4_112.jpg",
+    "size": [
+      3456,
+      4608
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.10851263999938965,
+    "upload_time": 2.2399730682373047,
+    "server_time": 0.1990211009979248,
+    "total_time": 2.547506809234619,
+    "class": "Phaeosphaeria Leaf Spot",
+    "confidence": 0.9930817484855652
+  },
+  {
+    "image": "4_113.jpg",
+    "size": [
+      4608,
+      3456
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.0855417251586914,
+    "upload_time": 2.148573637008667,
+    "server_time": 0.11701607704162598,
+    "total_time": 2.3511314392089844,
+    "class": "Phaeosphaeria Leaf Spot",
+    "confidence": 0.9786269068717957
+  },
+  {
+    "image": "4_114.jpg",
+    "size": [
+      3456,
+      4608
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.08251023292541504,
+    "upload_time": 2.247342348098755,
+    "server_time": 0.20903253555297852,
+    "total_time": 2.5388851165771484,
+    "class": "Phaeosphaeria Leaf Spot",
+    "confidence": 0.9898687601089478
+  },
+  {
+    "image": "4_115.jpg",
+    "size": [
+      3840,
+      5120
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.1265242099761963,
+    "upload_time": 2.1580348014831543,
+    "server_time": 0.11232972145080566,
+    "total_time": 2.3968887329101562,
+    "class": "Phaeosphaeria Leaf Spot",
+    "confidence": 0.5152724981307983
+  },
+  {
+    "image": "4_116.jpg",
+    "size": [
+      3456,
+      4608
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.0835118293762207,
+    "upload_time": 2.2410507202148438,
+    "server_time": 0.19861054420471191,
+    "total_time": 2.5231730937957764,
+    "class": "Phaeosphaeria Leaf Spot",
+    "confidence": 0.9920996427536011
+  },
+  {
+    "image": "5_1.jpg",
+    "size": [
+      4288,
+      2848
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.09151744842529297,
+    "upload_time": 2.2531650066375732,
+    "server_time": 0.19803261756896973,
+    "total_time": 2.542715072631836,
+    "class": "Southern Rust",
+    "confidence": 0.9021677374839783
+  },
+  {
+    "image": "5_10.jpg",
+    "size": [
+      4288,
+      2848
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.09804964065551758,
+    "upload_time": 2.2256767749786377,
+    "server_time": 0.1940293312072754,
+    "total_time": 2.5177557468414307,
+    "class": "Southern Rust",
+    "confidence": 0.9484846591949463
+  },
+  {
+    "image": "5_11.jpg",
+    "size": [
+      4288,
+      2848
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.09749841690063477,
+    "upload_time": 2.240516185760498,
+    "server_time": 0.19921374320983887,
+    "total_time": 2.5372283458709717,
+    "class": "Southern Rust",
+    "confidence": 0.9829771518707275
+  },
+  {
+    "image": "5_12.jpg",
+    "size": [
+      4288,
+      2848
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.09451985359191895,
+    "upload_time": 2.264950752258301,
+    "server_time": 0.20501470565795898,
+    "total_time": 2.5644853115081787,
+    "class": "Southern Rust",
+    "confidence": 0.989443302154541
+  },
+  {
+    "image": "5_13.jpg",
+    "size": [
+      4288,
+      2848
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.09451508522033691,
+    "upload_time": 2.230029344558716,
+    "server_time": 0.19004225730895996,
+    "total_time": 2.5145866870880127,
+    "class": "Southern Rust",
+    "confidence": 0.9528205394744873
+  },
+  {
+    "image": "5_14.jpg",
+    "size": [
+      4288,
+      2848
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.09451580047607422,
+    "upload_time": 2.1569042205810547,
+    "server_time": 0.1255197525024414,
+    "total_time": 2.3769397735595703,
+    "class": "Southern Rust",
+    "confidence": 0.9845439791679382
+  },
+  {
+    "image": "5_15.jpg",
+    "size": [
+      4288,
+      2848
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.09451127052307129,
+    "upload_time": 2.2511820793151855,
+    "server_time": 0.19503188133239746,
+    "total_time": 2.5407252311706543,
+    "class": "Southern Rust",
+    "confidence": 0.995479941368103
+  },
+  {
+    "image": "5_16.jpg",
+    "size": [
+      4288,
+      2848
+    ],
+    "capture_time": 0.0009932518005371094,
+    "preprocessing_time": 0.0905153751373291,
+    "upload_time": 2.258040189743042,
+    "server_time": 0.20101499557495117,
+    "total_time": 2.5505638122558594,
+    "class": "Southern Rust",
+    "confidence": 0.9944061040878296
+  },
+  {
+    "image": "5_17.jpg",
+    "size": [
+      4288,
+      2848
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.09050583839416504,
+    "upload_time": 2.2422757148742676,
+    "server_time": 0.20705056190490723,
+    "total_time": 2.53983211517334,
+    "class": "Southern Rust",
+    "confidence": 0.9887345433235168
+  },
+  {
+    "image": "5_18.jpg",
+    "size": [
+      4288,
+      2848
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.09151649475097656,
+    "upload_time": 2.164271354675293,
+    "server_time": 0.12851762771606445,
+    "total_time": 2.384305477142334,
+    "class": "Southern Rust",
+    "confidence": 0.988460898399353
+  },
+  {
+    "image": "5_19.jpg",
+    "size": [
+      4288,
+      2848
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.09051322937011719,
+    "upload_time": 2.233325242996216,
+    "server_time": 0.20258164405822754,
+    "total_time": 2.5264201164245605,
+    "class": "Southern Rust",
+    "confidence": 0.965965986251831
+  },
+  {
+    "image": "5_2.jpg",
+    "size": [
+      4288,
+      2848
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.08952188491821289,
+    "upload_time": 2.2599453926086426,
+    "server_time": 0.19774818420410156,
+    "total_time": 2.547215461730957,
+    "class": "Southern Rust",
+    "confidence": 0.7380347847938538
+  },
+  {
+    "image": "5_20.jpg",
+    "size": [
+      4288,
+      2848
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.132490873336792,
+    "upload_time": 2.176267385482788,
+    "server_time": 0.13053560256958008,
+    "total_time": 2.43929386138916,
+    "class": "Phaeosphaeria Leaf Spot",
+    "confidence": 0.9811168313026428
+  },
+  {
+    "image": "5_21.jpg",
+    "size": [
+      4032,
+      3024
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.09554171562194824,
+    "upload_time": 2.230379104614258,
+    "server_time": 0.19002270698547363,
+    "total_time": 2.5159435272216797,
+    "class": "Southern Rust",
+    "confidence": 0.9779956340789795
+  },
+  {
+    "image": "5_22.jpg",
+    "size": [
+      4032,
+      3024
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.09252691268920898,
+    "upload_time": 2.2333881855010986,
+    "server_time": 0.20253300666809082,
+    "total_time": 2.5284481048583984,
+    "class": "Southern Rust",
+    "confidence": 0.9777534008026123
+  },
+  {
+    "image": "5_23.jpg",
+    "size": [
+      4032,
+      3024
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.09351181983947754,
+    "upload_time": 2.2516162395477295,
+    "server_time": 0.20003223419189453,
+    "total_time": 2.5451602935791016,
+    "class": "Southern Rust",
+    "confidence": 0.9807562232017517
+  },
+  {
+    "image": "5_24.jpg",
+    "size": [
+      4032,
+      3024
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.09450411796569824,
+    "upload_time": 2.1850621700286865,
+    "server_time": 0.13251161575317383,
+    "total_time": 2.4120779037475586,
+    "class": "Southern Rust",
+    "confidence": 0.9177930355072021
+  },
+  {
+    "image": "5_25.jpg",
+    "size": [
+      4032,
+      3024
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.0965113639831543,
+    "upload_time": 2.24556040763855,
+    "server_time": 0.1960289478302002,
+    "total_time": 2.5381007194519043,
+    "class": "Southern Rust",
+    "confidence": 0.982957661151886
+  },
+  {
+    "image": "5_26.jpg",
+    "size": [
+      4032,
+      3024
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.09450745582580566,
+    "upload_time": 2.255326509475708,
+    "server_time": 0.19895362854003906,
+    "total_time": 2.5487875938415527,
+    "class": "Southern Rust",
+    "confidence": 0.9647476077079773
+  },
+  {
+    "image": "5_27.jpg",
+    "size": [
+      4032,
+      3024
+    ],
+    "capture_time": 0.0,
+    "preprocessing_time": 0.09952306747436523,
+    "upload_time": 2.3760416507720947,
+    "server_time": 0.3339095115661621,
+    "total_time": 2.809474229812622,
+    "class": "Southern Rust",
+    "confidence": 0.9938964247703552
+  }
+]

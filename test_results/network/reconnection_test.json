@@ -1,0 +1,15 @@
+{
+  "initial_result": {
+    "className": "Healthy",
+    "confidence": 0.4583129286766052,
+    "processingTime": 0.02200150489807129
+  },
+  "reconnect_success": true,
+  "reconnect_time": 2.17956280708313,
+  "reconnect_result": {
+    "className": "Healthy",
+    "confidence": 0.4583129286766052,
+    "processingTime": 0.12551403045654297
+  },
+  "confidence_diff": 0.0
+}
