@@ -1,0 +1,28 @@
+data -> Main folder
+
+Distribution for data/train:
+Common_Rust: 953 images
+Gray_Leaf_Spot: 866 images
+Healthy: 926 images
+Northern_Leaf_Blight: 789 images
+Phaeosphaeria_Leaf_Spot: 1107 images
+Southern_Rust: 802 images
+Total: 5443 images
+
+Distribution for data/validation:
+Common_Rust: 120 images
+Gray_Leaf_Spot: 109 images
+Healthy: 120 images
+Northern_Leaf_Blight: 98 images
+Phaeosphaeria_Leaf_Spot: 137 images
+Southern_Rust: 98 images
+Total: 682 images
+
+Distribution for data/test:
+Common_Rust: 119 images
+Gray_Leaf_Spot: 109 images
+Healthy: 116 images
+Northern_Leaf_Blight: 98 images
+Phaeosphaeria_Leaf_Spot: 137 images
+Southern_Rust: 98 images
+Total: 677 images
