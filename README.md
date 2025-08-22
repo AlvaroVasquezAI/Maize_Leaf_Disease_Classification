@@ -94,7 +94,7 @@ Here is a glimpse of the mobile application's user interface.
 ### Get the App
 
 The source code and installation instructions for the mobile application are available in a separate repository.
-- **Mobile App Repository**: **[Click Here]([https://github.com/your-username/maize-disease-mobile-app](https://github.com/AlvaroVasquezAI/FOLIVIX))** *(Please update this link)*
+- **Mobile App Repository**: [App](https://github.com/AlvaroVasquezAI/FOLIVIX)
 
 ## 4. Project Structure
 
